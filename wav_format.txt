@@ -1,0 +1,8 @@
+{
+'nChannels' : int,
+'samplesPerSecond' : int,
+'averageBytesPerSecond' : int,
+'blockAlignment' : int,
+'bitsPerSample' : int,
+'dataSizeBytes' : int
+}
